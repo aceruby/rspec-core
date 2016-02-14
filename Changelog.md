@@ -5,6 +5,8 @@ Enhancements:
 
 * Remove unneeded `:execution_result` example groups metadata, saving a
   bit of memory. (Myron Marston, #2172)
+* Add new `config.when_first_matching_example_defined` hook. (Myron
+  Marston, #2175)
 
 Bug Fixes:
 
